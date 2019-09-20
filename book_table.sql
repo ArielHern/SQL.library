@@ -1,7 +1,7 @@
 
 --create a title to house the books
 CREATE TABLE book(
-isbn_10 NUMBER(10),
+isbn_10 NUMBER(10) NOT NULL PRIMARY KEY,
 title VARCHAR2(100),
 author VARCHAR2(100),
 published_date DATE,
