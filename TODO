@@ -1,5 +1,17 @@
 TODO:
+
+Test:
+helper: report
+add
+update
+delete
+
 procedures:
+	add
 	delete
 	update
+	
+
+package:
+	procedures from above
 	
